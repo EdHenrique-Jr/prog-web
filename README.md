@@ -7,4 +7,4 @@ Projeto focado em explorar os conceitos da tecnologia revolucionária Jakarta EE
 vscode
   liveshare
     sessao vscode
-      https://prod.liveshare.vsengsaas.visualstudio.com/join?7313D5B83B09C0F4A45DD9FFC74B33089220
+      https://prod.liveshare.vsengsaas.visualstudio.com/join?A78D16CD01006481118CA1FDB808970FD7FE
